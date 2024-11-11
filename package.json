@@ -1,0 +1,20 @@
+{
+  "name": "redimenssionador-de-video-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "videos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandoliberto/redimenssionador-de-video-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandoliberto/redimenssionador-de-video-NodeJs/issues"
+  },
+  "homepage": "https://github.com/nandoliberto/redimenssionador-de-video-NodeJs#readme"
+}
